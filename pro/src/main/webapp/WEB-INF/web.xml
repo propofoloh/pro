@@ -32,7 +32,7 @@
 	
 	  <!-- 시작페이지 설정 -->
     <welcome-file-list>
-        <welcome-file>/board/list</welcome-file>
+        <welcome-file>/WEB-INF/views/board/list.jsp</welcome-file>
     </welcome-file-list>
     
     
